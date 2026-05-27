@@ -18,15 +18,15 @@ This backend serves housing/location data to the Angular frontend and is designe
 
 ## Project Structure
 
-backend/
-│
-├── app/
-│   ├── main.py
-│   └── routes/
-│       └── locations.py
-│
-├── requirements.txt
-└── README.md
+backend/ <br>
+│<br>
+├── app/<br>
+│   ├── main.py<br>
+│   └── routes/<br>
+│       └── locations.py<br>
+│<br>
+├── requirements.txt<br>
+└── README.md<br><br>
 
 ---
 
