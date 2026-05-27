@@ -79,7 +79,7 @@ https://github.com/thinkSavag/angular-homes-tutorial
 
 
 ### 📺 Series
-Part 1 →  [Angular Homes Tutorial] https://www.youtube.com/watch?v=UZm4DsxCeog&list=PL47k7fyMzVz5JUjLihHIkOCsYJycmnQHi&index=3 <br>
-Part 2 → [Extend Original Tutorial]https://www.youtube.com/watch?v=YSgHA4aIXw0&list=PL47k7fyMzVz5JUjLihHIkOCsYJycmnQHi&index=4 <br>
-Part 3 → [Replace API to Local Environment] https://www.youtube.com/watch?v=VLvflhqNR-8&list=PL47k7fyMzVz5JUjLihHIkOCsYJycmnQHi&index=5 <br>
+Part 1 →  [Angular Homes Tutorial]: https://www.youtube.com/watch?v=UZm4DsxCeog&list=PL47k7fyMzVz5JUjLihHIkOCsYJycmnQHi&index=3 <br>
+Part 2 → [Extend Original Tutorial]: https://www.youtube.com/watch?v=YSgHA4aIXw0&list=PL47k7fyMzVz5JUjLihHIkOCsYJycmnQHi&index=4 <br>
+Part 3 → [Replace API to Local Environment]: https://www.youtube.com/watch?v=VLvflhqNR-8&list=PL47k7fyMzVz5JUjLihHIkOCsYJycmnQHi&index=5 <br>
 Part 4 → [Connect to Firebase]: https://www.youtube.com/watch?v=cJ2um80x-TM&list=PL47k7fyMzVz5JUjLihHIkOCsYJycmnQHi&index=6 <br>
