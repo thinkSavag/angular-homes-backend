@@ -1,6 +1,29 @@
-*.pyc
+# Python cache
+__pycache__/
+
+# Environment files
 .env
-.venv/
+.env.local
+
+# Virtual environments
 venv/
-.idea/
+.venv/
+
+# IDE settings
 .vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Test/cache tooling
+.pytest_cache/
+.mypy_cache/
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+*.log
